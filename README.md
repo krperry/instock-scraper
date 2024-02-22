@@ -4,13 +4,13 @@ This is a simple web page scraper to check stock of some items.
 Multi-Script Repository
 ## Overview
 This repository contains multiple scripts for various tasks along with instructions on how to use them and install the necessary modules.
-The original script now called instock.py was written by Wil Free.  It was used to show how to do web scraping in a python coding club.
+The original script now called instock.py was written by Willo Free.  It was used to show how to do web scraping in a python coding club.
 Ken Perry modified the original to create the others and show different ways to display the data.
 
 ## Scripts
 
 instock.py:
-    Original script by Wil Free that shows several items instock status from Aph web site.
+    Original script by Willo Free that shows several items instock status from Aph web site.
 instock_single.py:
 Shows the stock of a single item.
 instock_loop.py:

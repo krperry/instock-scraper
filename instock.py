@@ -1,4 +1,5 @@
-import requests
+#Originally written by Willo Free.
+ import requests
 import time
 from bs4 import BeautifulSoup
 
