@@ -1,4 +1,5 @@
 """Most simple version of the stock app that only checks one item."""
+
 import requests
 from bs4 import BeautifulSoup
 

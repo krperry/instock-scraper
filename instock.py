@@ -1,4 +1,5 @@
 """Stock script Originally written by Willo Free."""
+
 import requests
 from bs4 import BeautifulSoup
 
